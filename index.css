@@ -1,0 +1,138 @@
+.text-high {
+    color: #97c93e !important;
+}
+
+.text-white {
+    color: #fff !important;
+}
+
+.text-black {
+    color: #000 !important;
+}
+
+.padding-orozcoh2 {
+    background: linear-gradient(90deg, #1c3643, #273b47 25%, #1e5372);
+    padding: 2px;
+    background-clip: padding-box;
+}
+.padding-orozcoh4 {
+    background: linear-gradient(90deg, #1c3643, #273b47 25%, #1e5372);
+    padding: 4px;
+    background-clip: padding-box;
+}
+
+.padding-body {
+    background: linear-gradient(90deg, #1c3643, #273b47 25%, #1e5372);
+    padding: -10px;
+    background-clip: padding-box;
+}
+
+#header img {
+    width: 30px;
+}
+
+#carou1 .carousel-inner img {
+    max-height: 70vh;
+    object-fit: cover;
+    filter: grayscale(50%)
+}
+
+#carousel1 {
+    position: relative;
+}
+
+#carousel1 .overlay {
+    position: absolute;
+    top: 0;
+    bottom: 50;
+    left: 0;
+    right: 0;
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+    z-index: 1;
+}
+
+#carou2 .carousel-inner img {
+    max-height: 70vh;
+    object-fit: cover;
+    filter: grayscale(50%)
+}
+
+#carousel2 {
+    position: relative;
+}
+
+#carousel2 .overlay {
+    position: absolute;
+    top: 0;
+    bottom: 50;
+    left: 0;
+    right: 0;
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+    z-index: 1;
+}
+
+#carou3 .carousel-inner img {
+    max-height: 70vh;
+    object-fit: cover;
+    filter: grayscale(50%)
+}
+
+#carousel3 {
+    position: relative;
+}
+
+#carousel3 .overlay {
+    position: absolute;
+    top: 0;
+    bottom: 50;
+    left: 0;
+    right: 0;
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+    z-index: 1;
+}
+
+#carou4 .carousel-inner img {
+    max-height: 70vh;
+    object-fit: cover;
+    filter: grayscale(50%)
+}
+
+#carousel4 {
+    position: relative;
+}
+
+#carousel4 .overlay {
+    position: absolute;
+    top: 0;
+    bottom: 50;
+    left: 0;
+    right: 0;
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+    z-index: 1;
+}
+
+#cards {
+    background: linear-gradient(90deg, #1c3643, #273b47 25%, #1e5372);
+}
+
+#APIs {
+    background: linear-gradient(90deg, #1c3643, #273b47 25%, #1e5372);
+}
+
+#footer {
+    background: linear-gradient(90deg, #1c3643, #273b47 25%, #1e5372);
+}
+
+#footer a {
+    color: white;
+}
+
+a { text-decoration: none; }
+
+#footer img {
+    height: 80px;
+}
